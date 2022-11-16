@@ -10,7 +10,7 @@
 }
 body{
     height: 100vh;
-    background:linear-gradient(45deg,#00853e,#50c878);
+    background-image: radial-gradient(#320643, #140534);
     display: flex;
     justify-content: center;
     align-items: center;
